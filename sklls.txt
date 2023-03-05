@@ -1,5 +1,0 @@
-Skills
-1. Testing theory
-2. Charly
-3. Git Hub
-4. Postman
