@@ -1,5 +1,0 @@
-film 'Pride and Prejudice'
-series 'Despirate housewifes'
-food sweets
-season summer
-country Italy
